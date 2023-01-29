@@ -1,0 +1,292 @@
+﻿student_id,Name,NEU Email ID,Gender,phone number,date of birth
+29200011,RAJA NIKSHITH KATTA,katta.ra@northeastern.edu,Male,770-952-4915,1999-06-15
+29200012,Aditya Raj,adityarajaw.2309@gmail.com,Male,597-957-8057,1999-11-19
+29200013,Darshan Bhokare,bhokare.d@northeastern.edu,Male,462-690-1747,1996-03-27
+29200014,Parth Doshi,doshi.par@northeastern.edu,Male,205-540-1994,1998-02-19
+29200015,Sukriti Senson,senson.s@northeastern.edu,Female,383-889-2117,1997-10-01
+29200016,rahul bachina,bachina.r@northeastern.edu,Male,971-449-2756,1999-07-01
+29200017,shaik firdose,shaik.fi@northeastern.edu ,Male,758-887-1251,1998-06-02
+29200018,Aditya Prakash,prakash.adi@northeastern.edu,Male,962-931-5105,1996-05-04
+29200019,Zainab Khokawala,ZainabKhokawala2023@u.northeastern.edu,Female,976-246-7292,1997-07-13
+29200020,Adarsh Gadekar,gadekar.a@northeastern.edu,Male,929-617-0185,2000-10-08
+29200021,Akash rath,rath.ak@northeastern.edu,Male,427-865-2211,2000-01-23
+29200022,Sankalp Awasthi,awasthi.s@northeastern.edu,Male,537-270-0284,1999-06-18
+29200023,Harshini,ventakachalam.h@northeastern.edu,Female,208-744-4832,1997-12-08
+29200024,Akash Ganesan ,ganesan.ak@northeastern.edu,Male,447-438-7382,1997-05-28
+29200025,Gokul J,jayavel.g@northeastern.edu,Male,730-480-5406,1997-01-07
+29200026,Akash Awasarmal,awasarmal.a@northeastern.edu,Male,820-432-2866,2000-08-23
+29200027,AKASH GANESAN,ganesan.ak@northeastern.edu,Male,431-371-5620,2000-03-08
+29200028,Sishwa,thoka.s@northeastern.edu,Female,655-658-1761,2000-03-19
+29200029,Bharath Raam,vaduvoorsrinivasan.b@northeastern.edu,Male,784-941-7686,1996-04-17
+29200030,Divi Anand,anand.di@northeastern.edu,Female,576-470-8057,1996-01-08
+29200031,Nikhil Narayanarao Kudupudi,kudupudi.n@northeastern.edu,Male,605-815-8894,1999-07-06
+29200032,Amey Parab ,parab.amey@northeastern.edu,Male,757-777-7197,1997-05-04
+29200033,Anish Raju R Amara,amara.a@northeastern.edu ,Male,924-764-9177,2000-09-11
+29200034,Sriram Velmurugan,velmurugan.s@northeastern.edu,Male,355-163-0474,2000-05-21
+29200035,Sishwa,thoka.s@northeastern.edu ,Female,235-160-9653,1997-01-23
+29200036,Payal Pawar,pawar.pa@northeastern.edu ,Female,738-246-3944,1997-06-15
+29200037,Rishabh Jogani,jogani.r@northeastern.edu,Male,531-445-9609,1996-02-29
+29200038,Shivani Pokharkar,pokharkar.s@northeastern.edu,Female,653-661-0442,1998-04-29
+29200039,Ayush Patel,patel.ayushj@northeastern.edu ,Male,222-470-9521,2000-11-10
+29200040,Vidhi Sejpal,sejpal.v@northeastern.edu,Female,903-851-0129,1996-02-13
+29200041,Babsy V. Babu,babu.b@northeastern.edu,Female,603-510-7464,1997-05-29
+29200042,Shobhit Srivastava,srivastava.sho@northeastern.edu,Male,377-844-3775,1997-08-09
+29200043,Ashika Kalmady ,Kalmady.a@northeastern.edu,Female,667-926-4781,1998-01-19
+29200044,Parth Khurana,khurana.p@northeastern.edu,Male,256-534-2765,1997-02-07
+29200045,Nikhil Reddy Karukonda,karukonda.n@northeastern.edu,Male,336-985-2680,1996-08-23
+29200046,Nisarga Venkatesh ,Venkatesh.ni@northeastern.edu,Female,798-374-0668,2000-08-28
+29200047,Harsha Loganathan,loganathan.h@northeastern.edu,Male,837-395-9302,1996-03-14
+29200048,Aditya Pravin Pande,pande.ad@northeastern.edu,Male,204-649-7567,2000-09-13
+29200049,Nemil Shah,shah.nem@northeastern.edu,Male,681-670-5406,1996-12-18
+29200050,Pratik Sahu,sahu.pr@northeastern.edu,Male,168-383-8173,1997-05-27
+29200051,Shivani ,shivaniravinder19@gmail.com,Female,763-187-2174,1999-08-13
+29200052,Ataish Nehra,nehra.at@northeastern.edu,Male,995-339-0589,1998-07-17
+29200053,Shreyans Thesia,thesia.s@northeastern.edu,Male,779-660-7301,2000-05-27
+29200054,Nikhil Reddy Polepally,polepally.n@northeastern.edu,Male,495-142-4181,1998-12-14
+29200055,Surya Krishnamurthy,krishnamurthy.sur@northeastern.edu,Male,149-945-2469,2000-07-22
+29200056,Moinuddin Khaja,khaja.m@northeastern.edu,Male,417-744-6229,1996-11-16
+29200057,Veeru Janadri,lnu.vir@northeastern.edu,Male,817-701-5075,2000-03-14
+29200058,Varun Kumar,Yepuri.v@northeastern.edu,Male,739-859-0687,1996-07-27
+29200059,Siddharth Vaghela,vaghela.s@northeastern.edu,Male,599-853-2384,1996-06-26
+29200060,Shivani ,Rahatwad.s@gmail.com,Female,903-132-3459,1999-02-13
+29200061,Aishwarya Keskar,keskar.a@northeastern.edu,Female,557-239-3101,1997-07-06
+29200062,Rutuja,Kute.r@northeastern.edu,Female,808-305-9566,1999-07-13
+29200063,Anurag,nandre.a@northeastern.edu,Male,544-657-2373,1996-12-15
+29200064,Shivani Gole,shivani.s.gole@gmail.com,Female,400-822-7128,1998-03-29
+29200065,Pavan Kumar Vemulapalli,vemulapalli.pa@northeastern.edu,Male,660-884-7161,1996-04-06
+29200066,Satyajit Das,das.sat@northeastern.edu,Male,137-550-3175,1998-01-23
+29200067,Reyshma ,r.r@northeastern.edu,Female,397-351-0373,1999-01-14
+29200068,Harsha Loganathan,loganathan.h@northeastern.edu,Male,816-937-8866,1997-09-15
+29200069,Shruti,vats.shr@northeastern.edu,Female,203-682-2441,1997-12-08
+29200070,Ishan B Lokhande,lokhande.i@northeastern.edu,Male,228-406-6956,2000-05-08
+29200071,Vivek Hanagoji,hanagoji.v@northeastern.edu,Male,861-462-9360,1996-01-01
+29200072,Mansi Dabriwal,dabriwal.m@northeastern.edu,Female,460-133-5736,1999-12-29
+29200073,Shivananda D,dayananda.s@northeastern.edu,Male,513-484-1204,1997-07-05
+29200074,Aishwarya Sairama,sairama.a@northeastern.edu,Female,461-108-5861,1997-05-14
+29200075,Pranali Sawant,sawant.prana@northeastern.edu,Female,975-796-3894,1999-04-11
+29200076,Bhavesh Jain,Jain.bha@northeastern.edu,Male,649-402-4173,1999-12-04
+29200077,Makarand Zende,zende.m@northeastern.edu,Male,674-238-4348,2000-10-18
+29200078,Japan Gor,Gor.j@northeastern,Male,770-738-2035,1999-01-29
+29200079,Kaushik Bokarde,bokarde.k@northeastern.edu,Male,327-303-8558,1998-09-06
+29200080,Anirudha Narayan Shastri,shastri.an@northeastern.edu,Male,146-972-4804,1999-06-20
+29200081,Sejal desai,desai8254@gmail.com,Female,258-513-4615,1996-02-06
+29200082,Jainam Mehta,mehta.jain@northeastern.edu,Male,427-158-6856,1997-03-20
+29200083,Vaishnav kanekar,kanekar.v@northeastern.edu,Male,511-274-4258,1998-05-17
+29200084,Hinal Patel,patel.hina@northeastern.edu,Female,894-307-1520,2000-03-23
+29200085,Sinchana Kumar,kumara.s@northeastern.edu,Female,279-876-5443,1999-01-04
+29200086,Harshini,ventakachalam.h@northeastern.edu,Female,761-515-6350,2000-06-15
+29200087,Abhilash G P,gowdrupalakshappa.a@northeastern.edu,Male,694-887-8223,1999-05-11
+29200088,Sujay Torvi ,torvi.s@northeastern.edu ,Male,622-728-8842,1998-12-28
+29200089,Manan,shah.manan4@northeastern.edu,Male,522-281-2392,2000-09-12
+29200090,Ananthakrishnan Harikumar,harikumar.a@northeastern.edu,Male,863-718-4748,1998-12-10
+29200091,Soha Vankudre,vankudre.s@northeastern.edu,Female,617-455-8626,1997-01-18
+29200092,DellipKumar S,dellipsivakumar1998@gmail.com,Male,175-179-4024,1996-06-01
+29200093,Aadhi Aadhavan Balasubramanian,balasubramanian.aa@northeastern.edu ,Male,234-279-1178,1998-10-02
+29200094,Akhil Talashi,talashi.a@northeastern.edu,Male,466-272-7742,1996-08-21
+29200095,Sriram Jayakumar,jayakumar.sr@northeastern.edu,Male,107-204-0332,1999-03-11
+29200096,Harshada Sasturkar,sasturkar.h@northeastern.edu,Female,879-358-3444,1997-10-16
+29200097,Akshata L,lolayekar.a@northeastern.edu,Female,905-948-1494,1996-03-27
+29200098,Hetal Gada,gada.he@northeastern.edu,Female,503-858-7763,1998-11-13
+29200099,Riya Gupta,gupta.riya1@northeastern.edu,Female,571-110-8209,1997-03-16
+29200100,Neha Shende,shende.n@northeastern.edu,Female,487-949-3961,1996-03-17
+29200101,Parth Trivedi,trivedi.par@northeastern.edu,Male,696-884-0987,1999-06-20
+29200102,Meet Doshi,doshi.mee@northeastern.edu,Male,760-609-4118,1996-11-05
+29200103,Aakash Mahurkar,mahurkar.aa@northeastern.edu,Male,211-697-7693,1999-02-27
+29200104,Aswath S,senthilkumar.as@northeastern.edu,Male,221-404-8669,1998-05-07
+29200105,Deepshikha Singh,dshikha96@northeastern.edu,Female,663-453-4208,1996-06-11
+29200106,Pappuru Dinesh Sai,pappuru.d@northeastern.edu,Male,535-342-9659,1999-07-18
+29200107,Esha Acharya,acharya.e@northeastern.edu.in,Female,910-501-6867,2000-01-09
+29200108,Spandana Parisi,parisi.r@northeastern.edu,Female,933-106-1269,2000-10-28
+29200109,Nikita Mistri,mistri.n@northeastern.edu,Female,216-652-5047,1997-08-21
+29200110,Aditya Sai Saandeep Prayaga,a.prayaga@northeastern.edu,Male,684-120-3737,1999-11-26
+29200111,Puranjai Mendiratta,mendiratta.p@northeastern.edu,Male,847-495-5646,1999-01-20
+29200112,Utsav Chadha,chadha.u@northeastern.edu,Male,581-535-0003,1997-06-11
+29200113,Deepshikha Singh,Dshikha96@northeastern.edu,Female,801-548-5679,1999-12-29
+29200114,Dipika Mohanty,mohanty.di@northeastern.edu,Female,445-485-9786,1997-03-14
+29200115,Tanuj Karuturi,karuturi.t@northeastern.edu,Male,487-137-2014,1999-12-02
+29200116,Aishwarya Kumar,arvind.ai@northeastern.edu,Female,978-593-8627,1999-12-08
+29200117,Gauri Basutkar,basutkar.g@northeastern.com,Female,747-749-6089,2000-03-22
+29200118,Gauravi Bendre,bendre.g@northeastern.edu,Female,114-825-9968,1999-07-03
+29200119,Aadish Deshpande,deshpande.aa@northeastern.edu,Male,291-443-4479,1996-01-05
+29200120,Siddharth Goradia,goradia.si@northeastern.edu,Male,938-459-3646,1999-12-29
+29200121,Kandukuri Nikhil,kandukuri.n@northeastern.edu,Male,399-235-2962,1996-05-13
+29200122,Karthik Malasani,Malasani.k@northeastern.edu,Male,695-414-3642,2000-07-05
+29200123,Naveen S G,gadadns@gmail.com,Male,145-642-7855,1997-01-03
+29200124,Soham Butala,butala.s@northeastern.edu,Male,951-781-6148,1997-03-28
+29200125,Savinay Singh,savinaydtu@gmail.com,Male,174-792-9836,1996-01-09
+29200126,Peeyush Yadav,yadav.pe@northeastern.edu,Male,562-828-7498,1997-05-04
+29200127,Ameya Rane,rane.am@northeastern.edu,Male,965-505-8724,1998-02-12
+29200128,Parthik,bhardwaj.p@northeastern.edu,Male,341-969-3676,1997-02-12
+29200129,Shashank Dongre,dongre.s@husky.neu.edu,Male,615-915-6087,2000-05-12
+29200130,Pranav KS,karippali.p@northeastern.edu,Male,563-872-7238,1997-01-03
+29200131,Akhil Nigam,nigam.ak@northeastern.edu,Male,132-934-8240,1999-09-29
+29200132,Darsh Inamdar,inamdar.d@northeastern.edu,Male,658-207-9719,1997-03-07
+29200133,Harsh Agrawal,agrawal.har@northeastern.edu,Male,831-277-7590,1996-12-19
+29200134,Abhijith Nair,abh.nair@northeastern.edu,Male,119-328-2368,1997-12-22
+29200135,Mihir Shah,shah.mihir1@northeastern.edu,Male,285-315-7349,1998-10-13
+29200136,Sakshi Suresh Sasalate,saksheesasalate@gmail.com,Female,934-618-6626,1998-09-26
+29200137,Rohit Hooda,hooda.r@northeastern.edu,Male,602-754-9120,1999-08-13
+29200138,Akshaya Chennakeshava,chennakeshava.s@northeastern.edu,Female,657-400-5464,1996-02-04
+29200139,Chaitanya Kharche,kharche.c@northeastern.edu,Male,924-225-6563,1997-01-16
+29200140,Dipika Mohanty,mohanty.di@northeastern.edu,Female,180-618-9298,1998-03-02
+29200141,Sanjana Suresh,suresh.san@northeastern.edu,Female,222-181-7245,1996-07-12
+29200142,Shivansh Verma,verma.shi@northeastern.edu,Male,337-381-0283,1997-04-29
+29200143,Srinidhi Sunkara,sunkara.sr@northeastern.edu ,Female,376-786-3018,1998-09-16
+29200144,Arundhati Rajendra Pathrikar,pathrikar.ar@northeastern.edu,Female,998-982-4392,1998-12-15
+29200145,Rahul Chandak,chandak.r@northeastern.edu,Male,498-265-2303,2000-11-28
+29200146,Shibu,Babu.shi,Male,753-831-0570,1996-03-14
+29200147,Rajat,krishna.ra@northeastern.edu,Male,680-215-5180,2000-01-13
+29200148,Kirubagar Thiagarajan,thiagarajan.k@northeastern.edu,Male,205-857-7655,2000-02-22
+29200149,Ashutosh Kumar Tiwari,reachatashutosh@gmail.com,Male,687-399-3855,1997-03-02
+29200150,Saurav Krishna,pallipadikrishna.s@northeastern.edu,Male,166-164-9607,2000-09-23
+29200151,Sourabh Pujari,pujari.so@northeastern.edu,Male,652-386-4719,2000-01-25
+29200152,Valli Meenaa Vellaiyan,vellaiyan.v@northeastern.edu,Female,740-264-6890,1998-07-09
+29200153,Sathya Sri,balakrishnan.sa@northeastern.edu,Female,752-780-8064,1999-12-18
+29200154,Saiteja Kura ,kura.sa@northeastern.edu,Male,493-659-7797,1998-09-16
+29200155,Rishab Jaiprakash Khuba,khuba.r@northeastern.edu,Male,227-870-8089,1996-07-11
+29200156,Kandukuri Nikhil,kandukuri.n@northeastern.edu,Male,363-633-0790,1998-08-25
+29200157,Atharv Ganla,ganla.a@northeastern.edu,Male,176-130-6177,1997-08-24
+29200158,Aditya Shanmugham ,Shanmugham.a@northeastern.edu,Male,419-393-9405,1997-10-23
+29200159,Shrey Desai,desai.shrey@northeastern.edu,Male,783-169-7564,2000-09-16
+29200160,Bhargav Naga Shyam,pabbaraju.b@northeastern.edu,Male,507-533-8481,1999-01-04
+29200161,Chinmay V Dharwad,dharwad.c@northeastern.edu,Male,794-497-3391,1998-11-18
+29200162,Manan,shah.manan4@northeastern.edu,Male,360-207-0095,1996-12-31
+29200163,Abdulaziz Suria,suria.a@northeastern.edu,Male,473-788-8211,1996-11-25
+29200164,Kanchan chauhan,chauhan.ka@northeastern.edu ,Female,359-523-3748,1999-08-21
+29200165,Mohit,mohit.y@northeastern.edu,Male,554-731-0197,2000-09-25
+29200166,Vishal Reddy,gurrala.v@northeastern.edu,Male,669-166-6244,1998-01-08
+29200167,Anubhav Mahajan,mahajan.anu@northeastern.edu,Male,911-293-6866,1999-12-13
+29200168,Maria Anson,anson.ma@northeastern.edu,Male,713-851-9227,1997-08-05
+29200169,Lalit Kishore ,l.payidiparty@northeastern.edu,Male,295-629-3017,1997-03-22
+29200170,Manaswani Veerni ,Northeasternveerni.m@northeastern.edu,Female,575-505-2371,1997-07-18
+29200171,Vasu Agarwal,agarwal.vas@northeastern.edu,Male,427-372-7325,1999-10-14
+29200172,Smit Shah,smitshah1@northeastern.edu,Male,480-935-6863,1999-07-14
+29200173,Rohan Sheelvant,sheelvant.r@northeastern.edu,Male,517-445-5227,2000-07-05
+29200174,Neha Chaudhari,nehachaudhari0117@gmail.com,Female,566-256-7134,2000-11-28
+29200175,Satyam Shrivastava,shrivastava.sat@northeastern.edu,Male,410-789-3140,2000-02-20
+29200176,Parth Shah,parth.shah8@northeastern.edu,Male,677-976-9642,1997-12-10
+29200177,Gayatri Paresh Kenkare ,Kenkare.g@northeastern.edu ,Female,863-561-8359,1999-12-28
+29200178,Neehar Satti,satti.n@northeastern.edu,Male,633-486-6704,1996-12-05
+29200179,Pritish Arora,arora.pri@northeastern.edu,Male,320-273-0133,1999-08-05
+29200180,Aniket Dhole,dhole.an@northeastern.edu,Male,587-284-3217,1998-06-10
+29200181,Adinjay Phadkule ,phadkule.a@northeastern.edu ,Male,804-239-8700,2000-10-05
+29200182,Gayatri Paresh Kenkare ,Kenkare.g@northeastern.edu ,Female,435-233-8202,2000-08-20
+29200183,Yednes Chavan,chavan.y@northeastern.edu.in,Male,383-679-9502,2000-02-27
+29200184,Keerthana ,lnu.ke@northeastern.edu,Female,852-625-2488,1996-05-20
+29200185,Suraj Desai,desai.sur@northeastern.edu,Male,827-499-9644,1997-12-17
+29200186,Jayaraman V,venkatesan.j@gmail.com,Male,727-680-0672,1997-03-07
+29200187,Ameya Apte,apte.ame@northeastern.edu,Male,427-643-6012,1997-06-06
+29200188,Aditya Sawant,sawant.adit@northeastern.edu,Male,260-617-5132,2000-06-21
+29200189,Teena Ramu ,ramu.t@northeastern.edu,Female,306-138-3939,1999-04-09
+29200190,Prathmesh Chaudhari,chaudhari.prat@northeastern.edu,Male,860-932-1208,1999-05-02
+29200191,Satyajit Lanka,lanka.sat@northeastern.edu,Male,422-381-6426,2000-05-02
+29200192,Pranove Basavarajappa,arabagattabasavara.p@northeastern.edu,Male,519-111-5960,1998-07-14
+29200193,Manthan Wadiwala,wadiwala.m@northeastern.edu,Male,935-458-8515,1997-05-31
+29200194,Prakhar Gupta,gupta.prak@northeastern.edu,Male,852-894-5114,2000-08-23
+29200195,Ajaie Rad,Radhamanalan.a@northeastern.edu,Male,544-580-8041,1997-11-27
+29200196,Supriya Tripathi,tripathi.su@northeastern.edu,Female,627-203-1153,1999-01-23
+29200197,Hardik Devrangadi,devrangadi.h@northeastern.edu,Male,391-619-3683,1996-01-30
+29200198,Kavana Ravishankar,ravishankar.k@northeastern.edu,Female,819-428-4787,1999-02-09
+29200199,Dheekksha,rajeshbabu.d@northeastern.edu,Female,397-599-3695,1997-02-26
+29200200,Sayeed,ahmed.say@northeastern.edu,Male,792-799-7133,1997-07-06
+29200201,Rakshitha Reddy,appasanahallisrini.r@northeastern.edu,Female,341-160-4250,1999-10-18
+29200202,Manish shivaprasad ,Manishsprasad888@gmail.com,Male,848-861-8886,1996-07-20
+29200203,Pooja Ramesh ,Ramesh.po@northeastern.edu,Female,889-821-4514,2000-06-14
+29200204,P V MAHESH GAUTHAM ,pingali.v@northeastern.edu,Male,487-410-7028,1999-11-06
+29200205,Manish shivaprasad ,Manishsprasad888@gmail.com ,Male,923-382-0812,1997-04-01
+29200206,Aryaman Kakad,kakad.a@northeastern.edu,Male,981-632-5458,2000-08-14
+29200207,Advaith,advaithkandiraju41@gmail.com,Male,989-731-9735,1997-11-27
+29200208,Amit Yadav,yadav.am@northeastern.edu,Male,877-961-0129,1999-07-01
+29200209,Shreejit Deshmukh,deshmukh.shre@coe.neu.edu,Male,542-992-0732,2000-05-28
+29200210,Pranay Rahul,ganji.p@northeastern.edu,Male,941-622-3991,2000-10-28
+29200211,Simran Pandey,Pandey.sim@northeastern.edu,Female,258-941-8993,1996-02-01
+29200212,Jenish Sheta ,sheta.j@northeastern.edu ,Male,706-408-4751,1996-10-31
+29200213,Rhea Kamath,kamath.r@northeastern.edu,Female,361-637-4034,1998-10-04
+29200214,Himanshu More,more.hi@northeastern.edu,Male,155-724-4684,1996-09-06
+29200215,Abhay Deshpande,deshpande.abh@northeastern.edu,Male,768-517-2535,1999-05-10
+29200216,Tejal Patel,patel.tejal@northeastern.edu,Female,806-647-8592,1996-04-15
+29200217,SaiMahith Chigurupati,Chigurupati.sa@northeastern.edu,Male,524-388-1110,1996-07-21
+29200218,Thribhuvan ,narmeta.s@northeastern.edu ,Male,342-647-3879,2000-11-09
+29200219,Subbu Manickam,manickam.s@northeastern.edu,Male,556-360-7285,1999-06-20
+29200220,Ankit Talele,talele.a@northeastern.edu,Male,153-147-0446,1999-07-31
+29200221,PRABHAT CHANDA,prabhchanda@gmail.com,Male,296-802-0598,2000-03-26
+29200222,Samarth Saxena,saxena.sam@northeastern.edu,Male,161-368-1844,1996-05-11
+29200223,Hiral ,hiralpansuriya2122@gmail.com ,Female,306-147-0833,1999-06-25
+29200224,Natasha Mundada,mundada.n@northeastern.edu,Female,715-641-9805,1996-12-31
+29200225,Krithik Sai Sreenish G,gopinath.k@northeastern.edu,Male,866-433-6149,2000-10-24
+29200226,Aswath Sundar R,sundaramramasubram.a@northeastern.edu,Male,880-489-7943,1998-05-06
+29200227,Yash Savaliya,yash.savaliya@northeastern.edu,Male,739-276-4756,1998-11-11
+29200228,Sucharith Prasanna,prasannakrishna.s@northeastern.edu,Male,993-655-2116,2000-08-29
+29200229,Nisarg Kamleshbhai Parikh,nisargparikh.cse@gmail.com,Male,672-377-5150,1997-04-18
+29200230,Anuja Kolse,kolse512@gmail.com,Female,837-807-6044,1998-05-28
+29200231,Shreya Sudhanva,sudhanva.s@northeastern.edu,Female,550-677-8605,1997-02-10
+29200232,Vanshita Tilwani,tilwani.v@northeastern.edu,Female,310-254-6280,1999-05-07
+29200233,Sai Teja,marlapati.v@northeastern.edu,Male,720-774-2558,1998-09-06
+29200234,LIKITH V P,venkateshgowdaprat.l@northeastern.edu,Male,240-598-2929,1999-04-24
+29200235,Shubham Santosh Upadhyay,upadhyay.shu@northeastern.edu,Male,234-493-8885,1997-01-21
+29200236,Himanshu More,More.hi@northeastern.edu,Male,471-633-7651,2000-11-28
+29200237,Ganesh Patil,patil.gan@northeastern.edu,Male,872-703-9027,1999-08-21
+29200238,Sourabh Srinivas,srinivas.so@northeastern.edu,Male,961-291-1355,1998-05-22
+29200239,Rakhsith,linkappananand.r@northeastern.edu,Male,426-153-7919,1997-12-28
+29200240,Harshan Sri Ganugula,ganugula.h@northeastern.,Male,754-675-6226,2000-06-06
+29200241,Riya,virani.r@northeastern.edu,Female,291-578-8527,1996-07-10
+29200242,Yash Pawar,pawar.ya@northeastern.edu,Male,111-912-4649,1999-07-07
+29200243,Omkar Rajendra Gaikwad,gaikwad.o@northeastern.edu ,Male,210-901-4469,1999-11-19
+29200244,Juhi Parikh ,parikh.juhi@northeastern.edu,Female,216-430-8214,1996-07-02
+29200245,Yash Shah,shah.yash5@northeastern.edu,Male,167-474-3154,1996-05-12
+29200246,Kumar Mehul,mehul.k@northeastern.edu,Male,127-466-7875,1997-07-17
+29200247,Soham kale,kale.so@northeastern.edu ,Male,674-682-1102,1996-10-15
+29200248,Kavya Singh,singh.kavy@northeastern.edu,Male,289-357-4856,1999-11-19
+29200249,Shruti Chaphe,chaphe.s@northeastern.edu,Female,272-812-1481,1998-12-08
+29200250,Mandar Jadhav ,jadhav.man@northeastern.edu ,Male,734-479-2566,2000-10-01
+29200251,Shriyansh Sharda Sahu,sahu.shr@northeastern.edu,Male,547-160-9344,2000-08-08
+29200252,Arline Mendonca,mendonca.ar@northeastern.edu,Female,148-111-0630,1998-02-28
+29200253,Vaibhav Rajput,rajput.va@northeastern.edu,Male,164-661-9302,1997-07-20
+29200254,Aditya Pandey,pandey.adit@northeastern.edu,Male,396-765-2415,1996-08-06
+29200255,Tushar Rathod,rathod.t@northeastern.edu,Male,178-796-9859,1996-03-02
+29200256,Kalind Joshi,joshi.kal@northeastern.edu,Male,543-401-6229,2000-04-02
+29200257,Parikshit H,hiremath.pa@northeastern.edu,Male,901-925-7560,2000-01-25
+29200258,Harshit Sampgaon,sampgaon.h@northeastern.edu,Male,698-751-2718,1998-04-09
+29200259,Juilee patil,Patil.juilee@northerstern.edu,Female,861-810-9013,1997-08-07
+29200260,Shreyas Sarnaik,shreyassarnaik2000@gmail.com,Male,852-186-9882,1997-05-13
+29200261,Rohit Panicker,panicker.r@northeastern.edu,Male,566-800-7138,2000-10-20
+29200262,Siddharth Paygude,paygudesiddharth@gmail.com,Male,879-255-4149,1996-08-13
+29200263,Abhijit Pual,pual.a@northeastern.edu,Male,623-153-3271,1997-02-25
+29200264,Harsh Patil,patil.ha@northeastern.edu,Male,465-334-7359,1998-09-29
+29200265,Sai Revanth Reddy ,boda.s@northeastern.edu ,Male,708-627-8852,1999-01-15
+29200266,R V Kashi Raman,ramasamyvenkatasub.k@northeastern.edu,Male,858-847-9796,1997-12-26
+29200267,Chirag Malhotra,malhotra.ch@northeastern.edu,Male,753-624-7590,1997-06-03
+29200268,SIDDHESH SHELKE,shelke.si@northeastern.edu ,Male,318-575-6558,1997-04-08
+29200269,Konda Sai Deeksha,konda.said@northeastern.edu,Female,965-652-2956,1998-11-27
+29200270,Niresh Subramanian,subramanian.ni@northeastern.edu,Male,514-316-0285,1999-03-06
+29200271,Vikrant Shelke,shelke.v@northeastern.edu,Male,908-605-1648,2000-07-21
+29200272,Yash Revadekar,revadekar.y@northeastern.edu,Male,592-819-0772,1996-10-20
+29200273,Harsh Trivedi,harshtrivedi2462@gmail.com,Male,847-510-6644,1999-06-01
+29200274,Akhila Reddy ,bokka.a@northeastern.edu,Female,982-815-5670,2000-11-05
+29200275,Vishwa Karwa,karwa.v@northeastern.edu,Female,305-365-0036,1999-02-22
+29200276,Hazique Shaikh,shaikh.mohammedh@northeastern.edu,Male,438-443-6304,1999-10-14
+29200277,Anuraag Sendhilnathan,sendhilnathan.a@northeastern.edu,Male,859-595-3266,1998-09-24
+29200278,Sumit Hawal,hawal.s@northeastern.edu,Male,656-543-1488,2000-09-23
+29200279,Sree Vidya Manur,Manursree@gmail.com,Female,449-405-7447,1996-10-08
+29200280,Dhiral,mayavanshi.d@northeastern.edu,Female,556-153-2753,1997-02-13
+29200281,Rohit Yandra,yandra.r@northeastern.edu ,Male,602-216-7813,1998-02-02
+29200282,Siddharth Gargava,gargava.s@northeastern.edu ,Male,667-357-3028,1996-03-16
+29200283,Sai Karthick Suruli Mani ,surulimani.s@northeastern.edu,Male,384-752-6795,1999-04-27
+29200284,Tsarina Patnaik,patnaik.t@northeastern.edu,Female,408-692-8807,1997-09-11
+29200285,Shuklendu Shantanu Deo,deo.shu@northeastern.edu,Male,551-194-8871,1999-12-11
+29200286,Samrudh Kumaraswamy,kumaraswamy.s@northeastern.edu,Male,510-819-5675,2000-09-10
+29200287,Giridhar Kunamaneni,kunamaneni.g@northeastern.edu,Male,922-117-0227,2000-09-18
+29200288,Nikhil Chaudhary,ndchaudhary1998@gmail.com,Male,760-562-7801,1998-04-26
+29200289,Harikrishna Bhat,bhat.h@northeastern.edu,Male,791-353-2465,1999-03-09
+29200290,Abhijeet Gupta ,gupta.abhije@northeastern.edu,Male,607-839-1877,1999-11-17
+29200291,Bhakti Desai,desai.bhak@northeastern.edu,Female,356-935-2750,1996-07-29
+29200292,Nidhi Girjaprasad Kanojia,kanojia.n@northeastern.edu,Female,947-638-6997,1999-11-21
+29200293,KRISHNA NAMDEV DHONGADE,dhongade.k@northeastern.edu,Male,520-611-7933,1998-06-16
+29200294,Sahana Gangadharan ,gangadharan.s@northeastern.edu,Female,532-702-6167,2000-04-08
+29200295,Rahul,rahulgopinath46@gmail.com,Male,202-122-1724,1998-01-08
+29200296,Ashish Gupta,gupta.ashis@northeastern.edu,Male,378-589-3770,1998-11-29
+29200297,Deeksha Deshpande ,deshpande.de@northeastern.edu,Female,263-182-3208,1999-12-25
+29200298,Nikhil Raskar,raskar.n@northeastern.edu,Male,183-236-5763,2000-03-22
+29200299,Saurabh Chaudhari,chaudhari.sau@northeastern.edu,Male,408-121-7942,1997-07-17
+29200300,Nikhil Raskar,raskar.n@northeastern.edu,Male,442-194-7921,1999-08-25
+29200301,Vasudha,ambre.v@northeastern.edu,Female,952-725-9134,1998-03-14

@@ -1,0 +1,13 @@
+﻿collegeid,collegename,collegename,Campus,email
+111,"College of Arts, Media and Design","CollegeofArts,MediaandDesign",Boston,cmd.boston@northeastern.edu
+113,Khoury College of Computer Sciences,KhouryCollegeofComputerSciences,Boston,kcs.boston@northeastern.edu
+114,College of Engineering,CollegeofEngineering,Boston,coe.boston@northeastern.edu
+118,College of Science ,CollegeofScience,Boston,cos.boston@northeastern.edu
+211,"College of Arts, Media and Design","CollegeofArts,MediaandDesign",Seatle,cmd.seatle@northeastern.edu
+213,Khoury College of Computer Sciences,KhouryCollegeofComputerSciences,Seatle,kcs.seatle@northeastern.edu
+214,College of Engineering,CollegeofEngineering,Seatle,coe.seatle@northeastern.edu
+218,College of Science ,CollegeofScience,Seatle,cos.seatle@northeastern.edu
+311,"College of Arts, Media and Design","CollegeofArts,MediaandDesign",San Francisco ,cmd.sanF@northeastern.edu
+313,Khoury College of Computer Sciences,KhouryCollegeofComputerSciences,San Fransisco ,kcs.sanF@northeastern.edu
+314,College of Engineering,CollegeofEngineering,San Francisco ,coe.sanF@northeastern.edu
+318,College of Science ,CollegeofScience,San Francisco ,cos.sanF@northeastern.edu

@@ -1,0 +1,49 @@
+﻿departmentid,departmentname,dummy_department_name,deanname,email,collegeid
+AST,Asian Studies,AsianStudies,Pavlov Andrzejak,asianstudies@northeastern.edu,111
+BIO,Bioengineering,Bioengineering,Kittie Pindar,bioengineering@northeastern.edu,114
+CHEM,Chemical Engineering,ChemicalEngineering,Annnora Gelder,chemicalengineering@northeastern.edu,114
+CVE,Civil Engineering,CivilEngineering,Prince Arkwright,civilengineering@northeastern.edu,114
+CIS,Computer & Information Science,Computer&InformationScience,Mic Dyson,computer&informationscience@northeastern.edu,113
+ECE,Electrical and Computer Engineering,ElectricalandComputerEngineering,Sharron Dibbin,electricalandcomputerengineering@northeastern.edu,113
+HIE,Health Informatics,HealthInformatics,Jeana Earpe,healthinformatics@northeastern.edu,113
+ISS,Information Systems,InformationSystems,Martha Iwaszkiewicz,informationsystems@northeastern.edu,114
+MIE,Mechanical and Industrial Engineering,MechanicalandIndustrialEngineering,Carlin Pill,mechanicalandindustrialengineering@northeastern.edu,114
+MSS,Media and Screen Studies,MediaandScreenStudies,Mara Benoey,mediaandscreenstudies@northeastern.edu,111
+MUS,Music,Music,Elsie Mathan,music@northeastern.edu,111
+PHY,Physics,Physics,Arnuad Rockhall,physics@northeastern.edu,118
+PSC,Political Science,PoliticalScience,Hamlin Churchley,politicalscience@northeastern.edu,111
+PHP,Pre-Health Program,Pre-HealthProgram,Adrian Enrietto,pre-healthprogram@northeastern.edu,118
+TSM,Telecommunication Systems Management,TelecommunicationSystemsManagement,Oren Kindell,telecommunicationsystemsmanagement@northeastern.edu,118
+THT,Theatre,Theatre,Felice Jacqueminet,theatre@northeastern.edu,111
+AST1,Asian Studies,AsianStudies,Pavlov Andrzejak,asianstudies@northeastern.edu,211
+BIO1,Bioengineering,Bioengineering,Kittie Pindar,bioengineering@northeastern.edu,214
+CHEM1,Chemical Engineering,ChemicalEngineering,Annnora Gelder,chemicalengineering@northeastern.edu,214
+CVE1,Civil Engineering,CivilEngineering,Prince Arkwright,civilengineering@northeastern.edu,214
+CIS1,Computer & Information Science,Computer&InformationScience,Mic Dyson,computer&informationscience@northeastern.edu,213
+ECE1,Electrical and Computer Engineering,ElectricalandComputerEngineering,Sharron Dibbin,electricalandcomputerengineering@northeastern.edu,213
+HIE1,Health Informatics,HealthInformatics,Jeana Earpe,healthinformatics@northeastern.edu,213
+ISS1,Information Systems,InformationSystems,Martha Iwaszkiewicz,informationsystems@northeastern.edu,214
+MIE1,Mechanical and Industrial Engineering,MechanicalandIndustrialEngineering,Carlin Pill,mechanicalandindustrialengineering@northeastern.edu,214
+MSS1,Media and Screen Studies,MediaandScreenStudies,Mara Benoey,mediaandscreenstudies@northeastern.edu,211
+MUS1,Music,Music,Elsie Mathan,music@northeastern.edu,211
+PHY1,Physics,Physics,Arnuad Rockhall,physics@northeastern.edu,218
+PSC1,Political Science,PoliticalScience,Hamlin Churchley,politicalscience@northeastern.edu,211
+PHP1,Pre-Health Program,Pre-HealthProgram,Adrian Enrietto,pre-healthprogram@northeastern.edu,218
+TSM1,Telecommunication Systems Management,TelecommunicationSystemsManagement,Oren Kindell,telecommunicationsystemsmanagement@northeastern.edu,218
+THT1,Theatre,Theatre,Felice Jacqueminet,theatre@northeastern.edu,211
+AST2,Asian Studies,AsianStudies,Pavlov Andrzejak,asianstudies@northeastern.edu,311
+BIO2,Bioengineering,Bioengineering,Kittie Pindar,bioengineering@northeastern.edu,314
+CHEM2,Chemical Engineering,ChemicalEngineering,Annnora Gelder,chemicalengineering@northeastern.edu,314
+CVE2,Civil Engineering,CivilEngineering,Prince Arkwright,civilengineering@northeastern.edu,314
+CIS2,Computer & Information Science,Computer&InformationScience,Mic Dyson,computer&informationscience@northeastern.edu,313
+ECE2,Electrical and Computer Engineering,ElectricalandComputerEngineering,Sharron Dibbin,electricalandcomputerengineering@northeastern.edu,313
+HIE2,Health Informatics,HealthInformatics,Jeana Earpe,healthinformatics@northeastern.edu,313
+ISS2,Information Systems,InformationSystems,Martha Iwaszkiewicz,informationsystems@northeastern.edu,314
+MIE2,Mechanical and Industrial Engineering,MechanicalandIndustrialEngineering,Carlin Pill,mechanicalandindustrialengineering@northeastern.edu,314
+MSS2,Media and Screen Studies,MediaandScreenStudies,Mara Benoey,mediaandscreenstudies@northeastern.edu,311
+MUS2,Music,Music,Elsie Mathan,music@northeastern.edu,311
+PHY2,Physics,Physics,Arnuad Rockhall,physics@northeastern.edu,318
+PSC2,Political Science,PoliticalScience,Hamlin Churchley,politicalscience@northeastern.edu,311
+PHP2,Pre-Health Program,Pre-HealthProgram,Adrian Enrietto,pre-healthprogram@northeastern.edu,318
+TSM2,Telecommunication Systems Management,TelecommunicationSystemsManagement,Oren Kindell,telecommunicationsystemsmanagement@northeastern.edu,318
+THT2,Theatre,Theatre,Felice Jacqueminet,theatre@northeastern.edu,311
